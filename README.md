@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/venky-986/banner/blob/main/banner.png?raw=true)
-<h1 align="center">Hi 👋, I'm Venkatesh Ankam</h1>
+<h1 align="center">Hi 👋, I'm Srikanth Pagadala</h1>
 <h3 align="center">"Aspiring Full-Stack Developer | Front-End & Cloud Computing Explorer | AI Enthusiast | Innovating with React and Cloud Technologies "</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML,CSS JavaScript,React,c++,and Python**
 
-- 📫 How to reach me **venkateshankam76@gmail.com**
+- 📫 How to reach me **pagadala.srikanth2004@gmail.com**
 
 - ⚡ Fun fact **"💡 I'm a code enthusiast who loves turning ideas into reality with innovative tech solutions!"**
 
